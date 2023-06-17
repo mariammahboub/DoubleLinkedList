@@ -1,0 +1,8 @@
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\bin\Debug\DoubleLinkedList(Q3).exe.config
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\bin\Debug\DoubleLinkedList(Q3).exe
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\bin\Debug\DoubleLinkedList(Q3).pdb
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\obj\Debug\DoubleLinkedList(Q3).csproj.AssemblyReference.cache
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\obj\Debug\DoubleLinkedList(Q3).csproj.SuggestedBindingRedirects.cache
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\obj\Debug\DoubleLinkedList(Q3).csproj.CoreCompileInputs.cache
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\obj\Debug\DoubleLinkedList(Q3).exe
+C:\New folder\task(2)\Task2\Task3\DoubleLinkedList(Q3)\DoubleLinkedList(Q3)\obj\Debug\DoubleLinkedList(Q3).pdb
